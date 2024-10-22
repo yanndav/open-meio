@@ -2,3 +2,4 @@ venv
 PROD/*
 RAW/*
 recherches
+.DS_Store
